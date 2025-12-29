@@ -1,0 +1,14 @@
+Generated this using Gemini Nano Banana Pro
+
+Honestly, the results are absolutely stunning 🤯 
+
+Prompt; {
+  "prompt": "Extreme wet close-up portrait, side profile of a young woman. Dark wet hair strands naturally glued to the skin. Fine droplets of water and thin sweat glistening realistically on face. Focus on bright natural green and hazel eyes with realistic reflection. Moist and shiny lips, soft natural skin texture. Soft lighting, cool color tones, light grey and white bokeh background. Hyper-realistic, 8k resolution, cinematic photography, raw style.",
+  "negative_prompt": "excessive shine, oily skin, dry skin, heavy makeup, cartoon, illustration, 3d render, low quality, blurry, distorted eyes, bad anatomy, overexposed, high contrast",
+  "parameters": {
+    "aspect_ratio": "9:16",
+    "steps": 30,
+    "cfg_scale": 7.0,
+    "style": "Photorealistic"
+  }
+}
