@@ -1,0 +1,43 @@
+Night is young
+
+Nano Banana Pro via Gemini:
+{
+  "prompt_configuration": {
+    "type": "Ultra Photorealistic Portrait",
+    "aspect_ratio": "3:4",
+    "version": "v6.0"
+  },
+  "subject_details": {
+    "demographics": "Beautiful young Japanese woman, mid-20s, athletic full hourglass figure",
+    "hair": "Voluminous platinum blonde hair, long and wavy, swept back with hand, high shine and texture, slightly messy 'bedroom hair' look",
+    "skin": "Natural fair porcelain skin, visible skin texture including pores and peach fuzz, scattered natural freckles across nose and cheeks, dewy and hydrated finish, small beauty mark near upper lip",
+    "facial_features": "Defined high cheekbones, full glossy lips in neutral rose tone, groomed brushed-up eyebrows, captivating dark brown almond-shaped eyes, sharp jawline",
+    "nails": "Manicured fingernails painted dark cherry red"
+  },
+  "apparel_and_accessories": {
+    "clothing": "Form-fitting latex clubbing outfit featuring a deep neckline, high-gloss finish accentuating the physique (partial view)",
+    "jewelry": "Delicate gold chain necklace with a small crystal pendant",
+    "styling": "Night-out glamour, effortless chic, 'it girl' aesthetic"
+  },
+  "pose_and_expression": {
+    "pose": "Close-up portrait, right arm raised with hand running fingers through hair at the crown, head slightly tilted, intimacy of a candid moment",
+    "expression": "Direct eye contact, alluring and confident gaze, slightly parted lips, seductive but composed"
+  },
+  "environment_and_background": {
+    "setting": "Indistinguishable dark void, suggesting a nighttime event, club entrance, or street at night",
+    "background_elements": "Pitch black with minimal depth, focusing entirely on the subject"
+  },
+  "lighting_and_atmosphere": {
+    "lighting_style": "Direct on-camera flash photography (Paparazzi style), hard lighting",
+    "qualities": "High contrast, sharp fall-off into darkness, specular highlights on forehead, nose, and cheeks, bright illumination of the face",
+    "mood": "Seductive, mysterious, candid, high-energy nightlife"
+  },
+  "camera_and_technical": {
+    "camera_model": "Canon EOS 1V or Contax T2",
+    "film_stock": "Kodak Portra 800 or Fujifilm Superia 400 emulation",
+    "lens": "35mm prime lens",
+    "settings": "Aperture f/2.8, Shutter 1/60, ISO 800, Flash ON",
+    "visual_fidelity": "8k resolution, raw photo quality, sharp focus on eyes, slight chromatic aberration, organic film grain"
+  }
+}
+Quote
