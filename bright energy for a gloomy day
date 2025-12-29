@@ -1,0 +1,100 @@
+bright energy for a gloomy day
+
+Gemini Nano Banana Pro 😍 
+
+{
+  "prompt": {
+    "subject": {
+      "type": "human",
+      "gender_presentation": "female",
+      "age_range": "early to mid 20s",
+      "pose": "standing, walking forward, centered in frame",
+      "expression": "neutral, calm, confident",
+      "gaze": "looking directly at camera"
+    },
+    "appearance": {
+      "skin_tone": "fair",
+      "hair": {
+        "color": "dark brown",
+        "length": "long",
+        "style": "loose, softly wavy, center-parted"
+      },
+      "facial_features": {
+        "face_shape": "oval",
+        "eyebrows": "dark, well-defined",
+        "eyes": "light-colored (green/hazel appearance)",
+        "makeup": "minimal, natural look"
+      }
+    },
+    "outfit": {
+      "top": {
+        "type": "strapless tube top",
+        "color": "off-white / cream",
+        "fit": "form-fitting"
+      },
+      "bottom": {
+        "type": "high-waisted wide-leg jeans",
+        "color": "dark indigo denim",
+        "fit": "relaxed, straight wide-leg"
+      },
+      "shoes": {
+        "type": "open-toe heeled sandals",
+        "color": "beige / nude",
+        "heel_height": "low to medium"
+      },
+      "accessories": {
+        "bag": {
+          "type": "structured handbag",
+          "color": "cream",
+          "material": "quilted leather",
+          "carry_style": "handheld"
+        },
+        "jewelry": [
+          {
+            "type": "necklace",
+            "style": "delicate chain",
+            "pendant": "small red gemstone"
+          },
+          {
+            "type": "watch",
+            "color": "gold",
+            "wrist": "left"
+          }
+        ]
+      }
+    },
+    "environment": {
+      "setting": "urban residential street",
+      "architecture": "European-style brick townhouses",
+      "background_elements": [
+        "flower boxes",
+        "climbing plants",
+        "colorful flowers along buildings"
+      ],
+      "ground": "stone sidewalk pavement"
+    },
+    "lighting": {
+      "type": "natural daylight",
+      "quality": "soft, diffused",
+      "shadows": "gentle, minimal contrast"
+    },
+    "camera": {
+      "shot_type": "full-body portrait",
+      "angle": "eye-level",
+      "lens_style": "portrait lens",
+      "depth_of_field": "shallow, softly blurred background"
+    },
+    "style": {
+      "aesthetic": "modern, elegant, casual chic",
+      "color_palette": [
+        "cream",
+        "dark blue",
+        "green",
+        "warm floral tones"
+      ],
+      "photorealism": "high",
+      "detail_level": "high"
+    },
+    "mood": "calm, refined, fashionable"
+  }
+}
